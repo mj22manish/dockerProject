@@ -1,4 +1,4 @@
-# Docker Compose V2
+# Docker Compose V3
 version: '2'
 
 services:
