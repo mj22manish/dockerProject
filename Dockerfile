@@ -1,5 +1,5 @@
 FROM node:6
-MAINTAINER Manish Jain
+MAINTAINER Manish
 ENV INSTALL_PATH /my_dockerized_app
 RUN mkdir -p $INSTALL_PATH
 WORKDIR $INSTALL_PATH
